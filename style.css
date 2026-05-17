@@ -1,0 +1,32 @@
+body{
+    background-color: #1e1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.principal{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.filmes{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    color: red;
+}
+
+.podcasts{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    color: lime;
+}
+
+.games{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    color: orange;
+}
